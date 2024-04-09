@@ -1,0 +1,7 @@
+module topic_msgs {
+    module msg { 
+        struct Byte_Msg {
+            uint8 data[1000];
+        };
+    };
+};
